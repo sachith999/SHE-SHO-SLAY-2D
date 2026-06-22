@@ -11,13 +11,18 @@ The player must defeat enemies while managing health throughout each level.
 Health can be restored by colliding with mushrooms found across the map.
 Master all movement and combat abilities to progress and survive.
 
+## Gamne Info 
+You may encounter randome bugs or stutter during the game play. 
+
 ## Controls
 | Action | Key |
 |--------|-----|
-| Run    | Arrow Keys / A & D |
-| Jump   | Space |
-| Attack | Left Mouse Button / Z |
-| Slide  | Left Shift |
+| Run    | Arrow Keys / D |
+| Jump   | W |
+| Right  | D |
+| Left   | A |
+| Attack | Left Mouse Button |
+| Slide  | S |
 
 ## Features
 - 2D side-scrolling action gameplay
@@ -32,7 +37,6 @@ Master all movement and combat abilities to progress and survive.
 - C#
 
 ## Screenshots
-(Coming soon)
+Will Upload soon
 
-## Author
-Your Name
+
