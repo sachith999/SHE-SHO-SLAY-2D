@@ -36,7 +36,8 @@ You may encounter randome bugs or stutter during the game play.
 - Unity
 - C#
 
-## Screenshots
-Will Upload soon
+## Use this link to play in browser 
+https://play.unity.com/en/games/0fe68280-399a-46f4-ac17-0daea7affa3d/she-who-slay-web
 
+Tip: Expand the game window in the browser for better gameplay 
 
